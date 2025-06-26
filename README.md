@@ -184,7 +184,7 @@ If Poetry is not installed, install it with the following command:
 
 Clone the project and navigate into its directory:
 
-    git clone git@gitlab.com:Vikgur/product-basket-tests-english-version.git
+    git clone git@github.com:Vikgur/product-basket-tests-english-version.git
     cd product-basket-tests-english-version
 
 ## 4. Setting Up the Virtual Environment
